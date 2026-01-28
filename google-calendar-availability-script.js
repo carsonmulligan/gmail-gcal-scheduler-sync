@@ -17,8 +17,8 @@
 const DOC_ID = 'YOUR_GOOGLE_DOC_ID_HERE'; // from the doc URL: docs.google.com/document/d/THIS_PART/edit
 const CALENDAR_IDS = [
   'primary',                          // default calendar
-  // 'teresa@example.com',            // add more calendar IDs as needed
-  // 'campaign-calendar-id@group.calendar.google.com',
+  // 'ta@example.com',            // add more calendar IDs as needed
+  // 'calendar-id@group.calendar.google.com',
 ];
 const DAYS_AHEAD = 14;
 const DAY_START_HOUR = 8;   // 8 AM
